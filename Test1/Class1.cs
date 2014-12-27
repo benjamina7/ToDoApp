@@ -9,5 +9,6 @@ namespace Test1
     public class Class1
     {
         public int NumUno { get; set; }
+        public int NumDos { get; set; }
     }
 }
