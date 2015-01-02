@@ -10,5 +10,6 @@ namespace Test1
     {
         public int NumUno { get; set; }
         public int NumDos { get; set; }
+        public int NumTres { get; set; }
     }
 }
